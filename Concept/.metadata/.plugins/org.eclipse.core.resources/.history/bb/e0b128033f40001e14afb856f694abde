@@ -1,0 +1,12 @@
+package com.kodnest.java;
+
+public class SpecialSymbol {
+
+	public static void main(String[] args) {
+		int help=10;
+		int help_=10;
+		int $hel_p=5;
+		
+	}
+
+}
